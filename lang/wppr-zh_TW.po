@@ -1,0 +1,255 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2010-03-10 19:00+0800\n"
+"Last-Translator: Pastrank <webmaster@pastrank.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# admin.php 101
+msgid "My pastrank"
+msgstr "我的Pastrank"
+
+# admin.php 101
+msgid "Provided by Pastrank"
+msgstr "本數據由Pastrank提供"
+
+msgid "Please enter a valid domain, eg. pastrank.com"
+msgstr "您輸入的域名不合法，請不要包含http://，正確的例子：www.pastrank.com或者pastrank.com"
+
+msgid "Sorry, this domain is forbidden."
+msgstr "該域名已經被禁止，請與我們聯繫。"
+
+msgid "We will collect data in 2-7 workdays after you have added your domain."
+msgstr "該域名還沒有數據，我們需要在2-7個工作日才會收集相關數據，請耐心等待。"
+
+# admin.php 101
+msgid "View more indexed datas by search engines & alexa traffic rank."
+msgstr "點擊查看更詳細的搜索引擎收錄歷史以及Alexa排名歷史"
+
+# admin.php 108
+msgid "alexa"
+msgstr "alexa"
+
+# admin.php 109,130
+msgid "reset"
+msgstr "重置"
+
+# admin.php 134
+# pop.php 128
+msgid "yesterday"
+msgstr "昨天排名"
+
+# admin.php 106
+# pop.php 130
+msgid "7 day"
+msgstr "七天排名"
+
+# admin.php 138
+# pop.php 132
+msgid "1 month"
+msgstr "一個月排名"
+
+# admin.php 140
+# pop.php 134
+msgid "3 month"
+msgstr "三個月排名"
+
+# admin.php 145
+msgid "loading chart data, pleash wait..."
+msgstr "正在加載數據，請稍候..."
+
+# admin.php 150
+msgid "Options"
+msgstr "選項"
+
+# admin.php 157
+msgid "your domain"
+msgstr "你的域名"
+
+msgid "show pastrank chart in your posts"
+msgstr "顯示PastRank圖表到你的文章"
+
+# admin.php 165
+msgid "montior"
+msgstr "監控的搜索引擎"
+
+# admin.php 174
+msgid "get more help information..."
+msgstr "獲取更多的幫助..."
+
+# admin.php 176
+msgid "choose the search engine you want to monitor..."
+msgstr "設置你要監控的搜索引擎"
+
+# admin.php 184
+msgid "donate"
+msgstr "贊助"
+
+# admin.php 198
+msgid "using paypal"
+msgstr "使用Paypal贊助"
+
+# admin.php 202
+msgid "amount"
+msgstr "金額"
+
+# admin.php 214
+msgid "currency"
+msgstr "幣種"
+
+# admin.php 225
+msgid "custom amount"
+msgstr "自定義金額"
+
+# admin.php 232
+msgid "add pastrank link in my blog"
+msgstr "添加Pastrank的友情鏈接到我的博客"
+
+# admin.php 235
+msgid "post about pastrank & share that to my friend"
+msgstr "為Pastrank寫一些宣傳的博客，分享給更多的朋友"
+
+msgid "Add pastrank chart to your posts"
+msgstr "添加PastRank圖表到你的文章"
+
+# pop.php 61
+msgid "domain"
+msgstr "域名"
+
+# pop.php 66
+msgid "width/height"
+msgstr "寬度/高度"
+
+# pop.php 73
+msgid "date range"
+msgstr "日期範圍"
+
+# pop.php 80
+msgid "chart type"
+msgstr "圖表的類型"
+
+# pop.php 84
+msgid "flash(using FusionCharts)"
+msgstr "flash"
+
+# pop.php 87
+msgid "image(using Google chart)"
+msgstr "圖片"
+
+# pop.php 92
+msgid "show type"
+msgstr "顯示類型"
+
+# pop.php 96
+msgid "record on search engine"
+msgstr "搜索引擎收錄"
+
+# pop.php 99
+msgid "link in"
+msgstr "外鏈"
+
+# pop.php 107
+msgid "all"
+msgstr "所有"
+
+# pop.php 110
+msgid "today"
+msgstr "當天"
+
+# pop.php 113
+msgid "weekly"
+msgstr "一周"
+
+# pop.php 116
+msgid "monthly"
+msgstr "一月"
+
+# pop.php 118
+msgid "yearly"
+msgstr "一年"
+
+# pop.php 138
+msgid "submit"
+msgstr "提交"
+
+msgid "Please use your usual domain name, cause www.pastrank.com and pastrank.com is different for search engine."
+msgstr "請使用您常用的域名，對於搜索引擎來說，www.pastrank.com與pastrank.com可能是兩個域名"
+
+msgid "Traffic rank in country"
+msgstr "網站所在國家的排名"
+
+# admin.php 103
+msgid "All the indexed on search engines"
+msgstr "搜索引擎所有收錄"
+
+# admin.php 106
+msgid "Past 24h on search engine"
+msgstr "搜索引擎24小時內收錄"
+
+# admin.php 105
+msgid "Past week on search engine"
+msgstr "搜索引擎一周收錄"
+
+# admin.php 106
+msgid "Past month on search engine"
+msgstr "搜索引擎當月收錄"
+
+# admin.php 107
+msgid "Past year on search engine"
+msgstr "收錄引擎一年收錄"
+
+msgid "Alexa traffic rank"
+msgstr "alexa排名"
+
+# pop.php 99
+msgid "Link in"
+msgstr "外鏈"
+
+# admin.php 157
+msgid "Other domain"
+msgstr "查看其它域名"
+
+msgid "View"
+msgstr "查看"
+
+msgid "Setting"
+msgstr "設置"
+
+# admin.php 157
+msgid "Add other domain"
+msgstr "添加其它域名"
+
+msgid "show pastrank chart in posts"
+msgstr "顯示PastRank圖表到你的博客"
+
+# admin.php 174
+msgid "Get more help information..."
+msgstr "獲取更多的幫助..."
+
+msgid "Go to pastrank's official web site"
+msgstr "訪問Pastrank的官方網站"
+
+msgid "Thank you using wp-pastrank, Pastrank is totally free. what's more, API&wp-pastrank is free too. hope you enjoy using it. and for the better development of pastrank, hope you can add PastRank link to your website, or write posts to recommend Pastrank to others. if you think Pastrank is great, you can donote for our hardwork."
+msgstr "感謝您選擇wp-pastrank，和pastrank.com所提供的服務一樣，wp-pastrank也是免費的，如果你覺得這個插件還不錯，希望你可以添加pastrank到你的友情鏈接中，也可以寫一些博文來推薦pastrank。當然，你也可以選擇使用捐助的方式來幫助pastrank的發展，再一次感謝。"
+
+msgid "show first&last datas"
+msgstr "強制顯示初次和最後一次的數據"
+
+msgid "px or %"
+msgstr "px或者%"
+
+# admin.php 105
+msgid "indexed by search engines"
+msgstr "搜索引擎收錄"
+
+msgid "alexa traffic rank"
+msgstr "alexa排名"
+
+# admin.php 145
+msgid "loading chart data, please wait..."
+msgstr "正在加載數據，請稍候..."
+

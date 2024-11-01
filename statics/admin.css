@@ -1,0 +1,135 @@
+@charset "utf-8";
+.wpprFieldset
+{
+	border: 1px solid #CCC;
+	margin: 20px;
+	padding: 10px;
+	-moz-border-radius:8px;
+}
+
+.wpprLogo
+{
+	background-image:url(logo.jpg);
+	background-position: right top;
+	background-repeat: no-repeat;
+}
+.wpprFieldset legend
+{
+	margin-left: 20px;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+#wpprViewTree
+{
+	margin-right: 10px;
+	float: left;
+}
+
+#wpprViewTree li
+{
+	font-size: 12px;
+	padding: 5px 20px 0px 10px;
+}
+#wpprViewTree li a
+{
+	cursor: pointer;
+}
+#wpprViewTree li.current a
+{
+	color: red;
+	text-decoration: underline;
+}
+#wpprViewContent li.wpprOption
+{
+	display: none;
+}
+
+#wpprChart
+{
+	height: 450px;
+	width: 70%;
+	float: left;
+	display:block;
+}
+
+#wpprChart p
+{
+	margin: 20px;
+	text-align: center;
+}
+
+#wpprChart p img
+{
+	margin-top: 100px;
+	border: none;
+}
+
+.wpprFieldset .mainTable td
+{
+	padding: 10px 0px;
+}
+
+.wpprFieldset .mainTable table td
+{
+	padding: 5px;
+}
+.wpprFieldset .donate li
+{
+	margin-left: 40px;
+}
+
+.wpprFieldset .mainTable .caption
+{
+	font-weight: bold;
+	width: 160px;
+	padding-right: 20px;
+}
+.wpprFieldset .mainTable .option
+{
+	padding-right: 30px;
+	border-right: 1px dotted #CCC;
+}
+.wpprFieldset .rightDonate
+{
+	padding-top: 0px;
+}
+.wpprFieldset .rightDonate table
+{
+	margin-left: 20px;
+	margin-top: 0px;
+}
+
+.wpprFieldset ol.help li
+{
+	margin-left: 40px;
+}
+
+.wpprPostEditor
+{
+	padding: 0px;
+}
+.wpprPostEditor .editorCaption
+{
+	float: left;
+	display: block;
+	width: 130px;
+	font-weight: bold;
+}
+.wpprPostEditor li
+{
+	list-style: none;
+	padding: 5px 0px;
+	margin: 0px;
+}
+
+.editorCaption
+{
+	width: 100%;
+	display: block;
+}
+
+#wpprViewContent label
+{
+	margin-right: 10px;
+}

@@ -1,0 +1,244 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2010-01-31 06:09+0200\n"
+"Last-Translator: pastrank.com\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#admin.php 101
+msgid "My pastrank"
+msgstr ""
+
+msgid "Provided by Pastrank"
+msgstr ""
+
+msgid "Please enter a valid domain, eg. pastrank.com"
+msgstr ""
+
+msgid "Sorry, this domain is forbidden."
+msgstr ""
+
+msgid "We will collect data in 2-7 workdays after you have added your domain."
+msgstr ""
+
+msgid "View more indexed datas by search engines & alexa traffic rank."
+msgstr ""
+
+#admin.php 108
+msgid "alexa"
+msgstr ""
+
+
+#admin.php 109,130
+msgid "reset"
+msgstr ""
+
+#admin.php 134
+#pop.php 128
+msgid "yesterday"
+msgstr ""
+
+#admin.php 106
+#pop.php 130
+msgid "7 day"
+msgstr ""
+
+#admin.php 138
+#pop.php 132
+msgid "1 month"
+msgstr ""
+
+#admin.php 140
+#pop.php 134
+msgid "3 month"
+msgstr ""
+
+#admin.php 145
+msgid "loading chart data, pleash wait..."
+msgstr ""
+
+#admin.php 150
+msgid "Options"
+msgstr ""
+
+#admin.php 157
+msgid "your domain"
+msgstr ""
+
+#admin.php 161
+msgid "show pastrank chart in your posts"
+msgstr ""
+
+#admin.php 165
+msgid "montior"
+msgstr ""
+
+#admin.php 174
+msgid "get more help information..."
+msgstr ""
+
+#admin.php 176
+msgid "choose the search engine you want to monitor..."
+msgstr ""
+
+#admin.php 184
+msgid "donate"
+msgstr ""
+
+#admin.php 198
+msgid "using paypal"
+msgstr ""
+
+#admin.php 202
+msgid "amount"
+msgstr ""
+
+#admin.php 214
+msgid "currency"
+msgstr ""
+
+#admin.php 225
+msgid "custom amount"
+msgstr ""
+
+#admin.php 232
+msgid "add pastrank link in my blog"
+msgstr ""
+
+#admin.php 235
+msgid "post about pastrank & share that to my friend"
+msgstr ""
+
+#pop.php 21
+msgid "Add pastrank chart to your posts"
+msgstr ""
+
+#pop.php 61
+msgid "domain"
+msgstr ""
+
+#pop.php 66
+msgid "width/height"
+msgstr ""
+
+#pop.php 73
+msgid "date range"
+msgstr ""
+
+#pop.php 80
+msgid "chart type"
+msgstr ""
+
+#pop.php 84
+msgid "flash(using FusionCharts)"
+msgstr ""
+
+#pop.php 87
+msgid "image(using Google chart)"
+msgstr ""
+
+#pop.php 92
+msgid "show type"
+msgstr ""
+
+#pop.php 96
+msgid "record on search engine"
+msgstr ""
+
+#pop.php 99
+msgid "link in"
+msgstr ""
+
+#pop.php 107
+msgid "all"
+msgstr ""
+
+#pop.php 110
+msgid "today"
+msgstr ""
+
+#pop.php 113
+msgid "weekly"
+msgstr ""
+
+#pop.php 116
+msgid "monthly"
+msgstr ""
+
+#pop.php 118
+msgid "yearly"
+msgstr ""
+
+#pop.php 138
+msgid "submit"
+msgstr ""
+
+msgid "Please use your usual domain name, cause www.pastrank.com and pastrank.com is different for search engine."
+msgstr ""
+
+msgid "Traffic rank in country"
+msgstr ""
+
+msgid "All the indexed on search engines"
+msgstr ""
+
+msgid "Past 24h on search engine"
+msgstr ""
+
+msgid "Past week on search engine"
+msgstr ""
+
+msgid "Past month on search engine"
+msgstr ""
+
+msgid "Past year on search engine"
+msgstr ""
+
+msgid "Alexa traffic rank"
+msgstr ""
+
+msgid "Link in"
+msgstr ""
+
+msgid "Other domain"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "Setting"
+msgstr ""
+
+msgid "Add other domain"
+msgstr ""
+
+msgid "show pastrank chart in posts"
+msgstr ""
+
+msgid "Get more help information..."
+msgstr ""
+
+msgid "Go to pastrank's official web site"
+msgstr ""
+
+msgid "Thank you using wp-pastrank, Pastrank is totally free. what's more, API&wp-pastrank is free too. hope you enjoy using it. and for the better development of pastrank, hope you can add PastRank link to your website, or write posts to recommend Pastrank to others. if you think Pastrank is great, you can donote for our hardwork."
+msgstr ""
+
+msgid "show first&last datas"
+msgstr ""
+
+msgid "px or %"
+msgstr ""
+
+msgid "indexed by search engines"
+msgstr ""
+
+msgid "alexa traffic rank"
+msgstr ""
+
+msgid "loading chart data, please wait..."
+msgstr ""
